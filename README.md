@@ -1,4 +1,4 @@
-Uso na escola
+<img width="1589" height="893" alt="image" src="https://github.com/user-attachments/assets/3781ab1e-1a50-4208-a6d7-6a57b9ce81d4" />Uso na escola
 
 Ano escolar: 8º ano do Ensino Fundamental.
 
@@ -15,3 +15,17 @@ Com essa atividade, seria possível trabalhar Matemática, observando os tempos 
 Também seria possível ampliar o projeto, acrescentando um sinal sonoro para ajudar pessoas com deficiência visual a identificar o momento de atravessar.
 
 Espero que, com essa atividade, os alunos aprendam de forma prática, desenvolvam a criatividade, trabalhem em equipe e compreendam melhor a importância da tecnologia para resolver problemas do nosso cotidiano.
+
+## Circuito no Tinkercad
+
+O circuito do semáforo foi desenvolvido na plataforma Tinkercad.
+https://www.tinkercad.com/things/fQGRyHIGIpy/editel?returnTo=%2Fdashboard%2Fdesigns%2Fall&sharecode=wHjq_caJ7WAHD0-35BPOqC9BsqR_huOgrgwxPlAtYzg
+
+## Imagem do circuito
+
+![Semáforo montado no Tinkercad](Magnificent%20Habbi-Leelo.png)
+
+
+
+
+
